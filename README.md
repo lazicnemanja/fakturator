@@ -17,4 +17,4 @@ Current placeholders:
 * **{rsd}** *conversion to rsd by exchange rate*
 
 ## run
-> python main.py n (n=float)
+> python3 main.py n (n=float)
